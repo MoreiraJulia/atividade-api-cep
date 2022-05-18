@@ -1,0 +1,12 @@
+.titulo{
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.box{
+    height: 100px;
+    width: 450px;
+    display: block;
+    background: red;
+    margin-top: 25px;
+}
